@@ -1,0 +1,678 @@
+
+<!DOCTYPE html>
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<html>
+<title>Tammy Physique</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-blue-grey.css">
+<link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Open+Sans'>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<meta name='viewport' content='width=device-width, initial-scale=1'>
+
+<header style="font-family:ebrima;">
+<center>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist" class="btn btn-default" role="button">Personal Trainer</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+    <span class=></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist/photos/220380266197379">Transformation Program</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist/photos/228453288723410">Energetic Exercise</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist/photos/250333049868767">Online Coaching</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist/photos/218612903040782">Personal Training</a></li>
+</ul>
+</div>
+</div>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist" class="btn btn-default" role="button">Sports Psychologist</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="https://www.facebook.com/TammyPhysiquePersonalTrainerandSportsPsychologist/photos/393848798850524">Mental Toughness</a></li>
+      <li><a href="#">Confidence</a></li>
+      <li><a href="#">Self-esteem</a></li>
+      <li><a href="#">Motivation</a></li>
+      <li><a href="#">Perfectionism</a></li>
+    </ul>
+</div>
+</div>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiqueLifeCoach" class="btn btn-default" role="button">Life Coach</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu">
+      <li><a href="https://www.facebook.com/TammyPhysiqueLifeCoach/photos/265513788810550">Health & fitness</a></li>
+      <li><a href="#">Well being</a></li>
+      <li><a href="#">Environment</a></li>
+      <li><a href="#">Spiritual/Religion</a></li>
+      <li><a href="#">Social</a></li>
+      <li><a href="#">Career</a></li>
+    </ul>
+</div>
+</div>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiqueHealthCoach" class="btn btn-default" role="button">Healt Coach</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="https://www.facebook.com/TammyPhysiqueHealthCoach/photos/392478709206884">Health Coach</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiqueHealthCoach/photos/188123666309057">Nutrition Schedule</a></li>
+    </ul>
+</div>
+</div>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiqueSpiritualCoach" class="btn btn-default" role="button">Spiritual Coach</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+   <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="https://www.facebook.com/TammyPhysiqueSpiritualCoach/photos/a.241811707604502/294380345680971">Instant Sun</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiqueSpiritualCoach/photos/a.241811707604502/294383242347348">Golden Flame of Atlantis</a></li>
+  <li><a href="https://www.facebook.com/TammyPhysiqueSpiritualCoach/photos/a.241811707604502/241813194271020"</a>Gold Star Seal</li>
+  <li><a href="https://www.facebook.com/TammyPhysiqueSpiritualCoach/photos/a.241811707604502/241811820937824"</a>Full release Decree</li>
+  </ul>
+</div>
+</div>
+<div class="btn-group">
+  <a href="https://www.facebook.com/TammyPhysiqueMusicCoach" class="btn btn-default" role="button">Music Coach</a>
+  <button type="button" class="btn btn-default dropdown-toggle" data-bs-toggle="dropdown">
+    <span class="caret"></span></button>
+    <ul class="dropdown-menu" role="menu">
+      <li><a href="https://www.facebook.com/TammyPhysiqueMusicCoach/guides/?filter=433378364673811">Soundcloud</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiqueMusicCoach/guides/?filter=236636611277039">Youtube</a></li>
+      <li><a href="https://www.facebook.com/TammyPhysiqueMusicCoach/guides/?filter=1130982287357418">ReverBnation</a></li>
+    </ul>
+</div>
+</div>
+</div>
+</Header>
+
+<head>
+<center>
+  <br>
+<h1 style text-align: center="font-family:ebrima;">Tammy Physique</h1>
+<div class="container p-5 my-5 border">
+<img src="https://tammyphysiquecom.files.wordpress.com/2020/07/cropped-logo-black-1.png" class="thumbnail" class="mx-auto d-block";><br>
+<h5 style="font-family:ebrima; text-align:center;"><center>
+To achieve lasting health we need to understand the importance of the body the mind and soul <br>
+and how they work together to build our overall wellbeing</h5>
+<br>
+<br>
+A healthy body keeps you well and active<br>
+A healthy soul keeps you fullfilled and content<br>
+A healthy mind will help you find your way through life</h6>
+</p>
+</div>
+<br>
+<br>
+
+<div class="container p-5 my-5 border">
+<img src="https://tammyphysiquecom.files.wordpress.com/2020/12/055-2.jpg?w=576" class="thumbnail" ;width:400px;lenght:600px">
+<h3 style="font-family:ebrima;">Who is Tammy?</h3>
+<br>
+<br>
+<p style="font-family:ebrima;">
+I am Personal Trainer, Sports Psychologist, Life Coach, Health Coach, Spiritual Coach and Music Coach.<br>
+Fitness is my great passion for 21 year now since I was 15 years old. It’s a way of my life.<br>
+With my knowledge of Sports Psychology I can help you all goals and beyond that.<br>
+As a good life coach I help people make progress in their lives in all areas.<br>
+Healthy living is finding balance between  the body, mind and spirit.<br>
+That is why I think that spirituality in life is important to.<br>
+Music is my outlet and my way of coming to terms.<br>
+</div>
+</head>
+
+<body>
+<center>
+<div class="container p-5 my-5 border">
+<div class="container mt-3">
+  <h2>More</h2>
+<div id="accordion">
+<div class="card">
+<div class="card-header">
+  <a class="btn" data-bs-toggle="collapse" href="#collapseOne">
+  <h4> Personal Trainer</h4>
+  </a>
+</div>
+<div id="collapseOne" class="collapse show" data-bs-parent="#accordion">
+<div class="card-body">
+  <br>
+   <img src="Foto_PT_Profile.jpg" style="width:200px;height:200px"></i>
+    <br>
+          What is important to me is the total picture. Body, mind and spirit must work together,if one stagnates then the other stagnates too. 
+          It is my challenge to see where the bottlenecks lie and an even more fun challenge to get the gears turning again. 
+          It’s all about the right balance and the right mindset. 
+          I can help you with all your questions, whether you want to lose weight or gain weight, want to build fitness or grow muscle mass. 
+          Diseases will not get in the way, there are alternatives for that too.
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header">
+   <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+   <h4> Sports Psychologist</h4>
+   </a>
+</div>
+<div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+<div class="card-body">
+  <br>
+   <img src="Foto_PT_Profile.jpg" style="width:200px;height:200px"></i>
+  <br>
+As a Sports Psychologist I support Athlete’s in developing the knowledge, skills, and ability’s for Sports Performance excellences.<br>
+Scientific understanding of mental and emotional factors that contribute to the development and delivery of skilled athletic performance.<br>
+Sports Performance Excellence means encapsulated consistent, excellent performance and also enjoyment, satisfaction, and well-being (mental, emotional, physical ad spiritual)<br>
+Mental and emotional capacities often become the limiting factors in Athletic Performance.<br>
+<br>
+<h5>Remember; Always think in succes!</h5>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header">
+   <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseThree">
+   <h4>Life Coach</h4>
+   </a>
+</div>
+<div id="collapseThree" class="collapse" data-bs-parent="#accordion">
+<div class="card-body">
+  <br>
+ <img src="Foto_Life_Coach_Profile.jpg" style="width:200px;height:200px"></i>
+  <br>
+<h5>You are never to old to set another goal or to dream a new dream.</h5><br>
+<h6>My vision</h6><br>
+Each person holds so much power within themselves that needs to be let out.
+Sometimes you need a little nudge, a little direction, a little support, a little coaching and the greatest things will happen.
+<br>
+<h6>My Mission</h6><br>
+I think it is very important to believe in yourself and to be fully empowered. 
+Awaken the fire within yourself. Find a passion in life and let it be a motivation. 
+Life is a precious gift, get as much out of it as possible.
+I coach to shape personal, business and social matters where development and growth are central.
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header">
+   <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+   <h4>Health Coach</h4>
+   </a>
+</div>
+<div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+<div class="card-body">
+    <br>
+     <img src="Foto_Health_Coach_Profile.jpg" style="width:200px;height:200px"></i>
+      <br>
+        A healthy lifestyle is very important. <br>
+        It can help prevent diseases and long-term illnesses. <br>
+        Feeling good about yourself and taking care of your health are good for your self-esteem and self-image. <br>
+        Maintain a healthy lifestyle by doing what is right for your body. <br>
+        Your body is the temple and food is the fuel to run it. <br>
+        It is up to you how you want it to run, energetic and smooth or laboriously with risk of disorders. <br>
+        So many ailments are related to lack of a balanced diet.<br>
+<br>
+<h5>What can I do for you?</h5>
+<br>
+<center>
+   <div class="container mt-3">
+  <ul class="list-group list-group-flush">
+    <hr>
+    <li class="list-group-item">*Guide you to a healthy lifestyle</li>
+    <li class="list-group-item">*Make a healthy nutrition schedule</li>
+    <li class="list-group-item">*Lose or gain weight</li>
+    <li class="list-group-item">*Increase performance and energy</li>
+    <hr>
+  </ul>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header">
+    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+    <h4>Spiritual Coach</h4>
+    </a>
+</div>
+<div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+<div class="card-body">
+   <br>
+    <img src="Spiritual_Coach_Profile.jpg" style="width:200px;height:200px"></i>
+     <br>
+         From an early age I have found animals and nature very fascinating.<br>
+         I loved being in nature and I absolutely loved animals. Somehow I always drew animals to me. <br>
+         Both pets and animals in nature. Although I have a good relationship with animals, I wanted to learn more from it. <br>
+         I would like to know what goes on in an animal. What would an animal think and would people be able to communicate with animals.<br>
+         I started to study this and followed several courses to recognize behavior and to learn to communicate with animals.<br>
+         What I also find very fascinating is nature and all its magical elements. <br>
+         Nature offers us not only oxygen and food but there is more, all kinds of herbs and plants that support us in good health <br>
+         and which can also be used as medicine, the sun and the moon with their magical powers, gemstones and their powers <br>
+         but it also brings us a lot of peace. Nature offers us beautiful places where we can find our peace and sometimes ourselves.<br>
+<br>
+By having followed various courses and training I have discovered that I am extremely sensitive and therefore have a lot in me. <br>
+On the one hand, I thought it was a bit scary but at the same time very special to have these gifts and I started taking more courses to gain as much knowledge as possible.
+<br>
+Due to my high sensitivity, I have several channels open. Clear-knowing, clair-feeling, clair-smelling, clairvoyant, <br>
+I have a strong intuition and can take the patient.<br>
+<br>
+Through heroic knowledge, angels can give promptings through my subconscious so that I spontaneously know things. <br>
+If I have a question or a problem, an answer or idea spontaneously comes in that I wouldn’t have thought of myself.<br>
+<br>
+I can sense things very well through clairsentience. <br>
+I can sense when something is about to happen, I can sense the emotion and pain of others. <br>
+I can sense if something or a situation or person is bad or good for me, for example.<br>
+I can see things through clairvoyance. This can be anything, it can be people, animals or objects. <br>
+I also get visions.<br>
+<br>
+My intuition is very strong, which also has to do with clairvoyance, but this also makes it possible for me to communicate with animals.
+<br>
+</div>
+</div>
+</div>
+<div class="card">
+<div class="card-header">
+    <a class="collapsed btn" data-bs-toggle="collapse" href="#collapseTwo">
+    <h4>Music Coach</h4>
+    </a>
+</div>
+<div id="collapseTwo" class="collapse" data-bs-parent="#accordion">
+<div class="card-body">
+   <br>
+    <img src="Foto_Music_Coach_Profile.jpg" style="width:200px;height:200px"></i>
+    <br>
+I never came to the idea to make music till 5 years ago. <br>
+I needed a outlet and needed something to process my emotions as exercise was just not possible. <br>
+I have never made music and I didn’t know where to start but had music therapy from the best. <br>
+From zero to making my own beats, writing my own songs, singing them, composing it and producing my music. <br>
+I do everything myself. <br>
+<br>
+Want to learn how to make music?<br>
+<br>
+Write it off, say what you want to say and make money?<br>
+<br>
+I can help you!<Br>
+<br>
+I can help you write music, make music, compose music and produce music.<br>
+<br>
+Ask me how.<br>
+<br>
+<h4>SoundCloud</h4>
+<br>
+<a href="https://m.soundcloud.com/tammy-physique-803634779">Tammy Physique 1</a> 
+<br>
+<a href="https://m.soundcloud.com/user-212807674">Tammy Physique 2</a> 
+<br>
+<a href="https://m.soundcloud.com/tammy-physique">Tammy Physique 3</a>
+<br>
+<a href="https://m.soundcloud.com/user-112083048">Tammy Physique 4</a>
+<br>
+<h4>Youtube</h4>
+<br>
+<a href="https://m.youtube.com/channel/UCa-gMaoXO7VE6MEUV_RlltQ">Tammy Physique 1</a>
+<br>
+<a href="https://m.youtube.com/channel/UCrqZnlHKsbxGzTGcKQxBejQ">Tammy Physique 2</a>
+<br>
+<a href="https://m.youtube.com/channel/UC4ovMOGpTTqYx2YbezvwwHQ">Tammy Physique 3</a>
+<br>
+<h4>ReverBnation</h4>
+<br>
+<a href="https://www.reverbnation.com/tammyphysique1">Tammy Physique 1</a>
+<br>
+<a href="https://www.reverbnation.com/tammyphysique">Tammy Physique 2</a>
+<br>
+<a href="https://www.reverbnation.com/tammyphysique9">Tammy Physique 3</a>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+<footer>
+
+<div class="container p-5 my-5 border" style="font-family:ebrima;">
+<center>
+<img src="Contact_icon.png"   style="width:250px;height:250px"><b></i> <br><br>
+<img src="phone1.png"         style="width:36px;height:36px"></i> <b>+31641861355<br>
+<img src="Email.png"          style="width:36px;height:36px"></i>  <a href="mailto:TammyPhysiquePT@email.com" target="_blank" class="btn btn-default"><b>E-mail me</a><br>
+<img src="Facebook_icon.png"  style="width:36px;height:36px"></i><b><a href="https://www.facebook.com/tammy.physique.92/" target="_blank" class="btn btn-default"><b>Facebook</a><br>
+<img src="Wordpress_icon.png" style="width:36px;height:36px"></i><b><a href="https://www.tammyphysiquecom.wordpress.com/" target="_blank" class="btn btn-default"><b>Wordpress</a><br>
+<img src="Instagram_icon.png" style="width:36px;height:36px"></i><b><a href="https://www.instagram.com/tammy_physiquept/" target="_blank" class="btn btn-default"><b>Instagram</a><br> 
+<img src="Twitter.png"        style="width:36px;height:36px"></i><b><button type="button" class="btn btn-default"><b>Twitter</button><br>
+<img src="Snapchat.png"       style="width:36px;height:36px"></i><b><button type="button" class="btn btn-default"><b>Snapchat</button><br>
+<img src="Whatsapp_icon.png"  style="width:36px;height:36px"></i><a href="https://wa.me/0031641861355" target="_blank" class="btn btn-default"><b>What's App</a>
+</div>
+
+</footer>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</html> 
