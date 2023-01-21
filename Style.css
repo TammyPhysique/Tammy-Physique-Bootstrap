@@ -32,6 +32,11 @@ img { max-width: 100%; height: auto; }
 	overflow: hidden;
 }
 
+.responsive{
+	width: 80%;
+	height: auto;
+}
+
 .video-container iframe,  
 .video-container object,  
 .video-container embed {
